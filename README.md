@@ -1,6 +1,6 @@
 A simple golden spiral generator
 
-15.10.2020, SpoMerOpt
+15.10.2020, CM (cinna.monovic@gmail.com)
 __________________________________
 
 description:
@@ -12,7 +12,6 @@ CSVUtils.java   Utility for handling CSV files (useless for the solution adopted
 Fibonacci.java  the program generates a Fibonacci sequence of a length specified by user's input stream
 		and saves the output as a .csv file.
 
-Fibonacci.class java class of the Fibonacci.java program.
 
 Fibonacci_sketch/ ----------------
 
