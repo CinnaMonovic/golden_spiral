@@ -1,6 +1,6 @@
 
 /* Generate golden spiral 
-   SpoMerOpt 05.09.2020
+   CM (cinna.monovic@gmail.com) 05.09.2020
    */
 
 

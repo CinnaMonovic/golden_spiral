@@ -1,5 +1,5 @@
 // Playing around with Fibonacci sequence
-// 30.07.2020 SpoMerOpt
+// 30.07.2020 CM (cinna.monovic@gmail.com)
 import java.util.Arrays;
 import java.util.Scanner;
 
